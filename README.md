@@ -10,4 +10,5 @@ and refine its forecasts over time. As new data and drivers become known or avai
 update the model, closing the iteration loop
 
 Link for demo of the neural network model - https://youtu.be/uw-NUykRE6k
+
 All the resources for the project (source code, project report, post draft etc) - https://drive.google.com/drive/folders/1iWzr6DhuEu3YpqLMc6k_XwXtI8wbh90i?usp=sharing 
